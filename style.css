@@ -1,0 +1,8 @@
+.main_body {
+    background-color: rgb(25, 25, 25);
+    text-align: center;
+}
+.light_text {
+    color: rgb(240, 240, 240);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
