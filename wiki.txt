@@ -2,6 +2,8 @@ Projekt on veebileht, millelt saab vaadata ja alla laadida meie rühmaliikmete C
 Sellel on põhileht, kust saab navigeerida CV-dele.
 CV-de lehtedel on CV ise näha ning nupud, et tagasi põhilehele minna või et CV pdf-ina alla laadida.
 
+Pildid: Freepik.com
+
 Rühma liikmete panus:
 Kaili Must pole endast märku andund ega sõnumitele vastanud, seega ta pole osalenud töös.
 Eva Lototskaja on vähesel määral üritanud tööd teha, kuid ei ole saanud tööd githubi üles, lisaks on veetnud pika aja haiglas.
