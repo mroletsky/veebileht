@@ -4,5 +4,5 @@ CV-de lehtedel on CV ise näha ning nupud, et tagasi põhilehele minna või et C
 
 Rühma liikmete panus:
 Kaili Must pole endast märku andund ega sõnumitele vastanud, seega ta pole osalenud töös.
-Eva Lototskaja on vähesel määral üritanud tööd teha, kuid ei ole saanud tööd githubi üles.
+Eva Lototskaja on vähesel määral üritanud tööd teha, kuid ei ole saanud tööd githubi üles, lisaks on veetnud pika aja haiglas.
 Markus Roletsky on peaaegu kõik töö teinud.
