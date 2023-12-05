@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(#AEC5EB, #3A405A);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color:#3A405A ;
+    font-family: consolas;
+}
+h2{
+    color:#3A405A ;
+    font-family: consolas;
+}
+p{
+    color:#272b3d ;
+    font-family: consolas;
+    font-size: 20px;
+    max-width: 600px; 
+    margin: 0 auto; 
+}
+.p1{
+    color:#272b3d ;
+    font-family: consolas;
+    font-size: 15px;
+    max-width: 600px; 
+    margin: 0 auto;    
+}
+a{
+    color:#3A405A ;
+    font-family: consolas;   
+}
+
+
+
+
