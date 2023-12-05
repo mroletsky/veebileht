@@ -6,5 +6,5 @@ Pildid: Freepik.com
 
 Rühma liikmete panus:
 Kaili Must pole endast märku andund ega sõnumitele vastanud, seega ta pole osalenud töös.
-Eva Lototskaja on vähesel määral üritanud tööd teha, kuid ei ole saanud tööd githubi üles, lisaks on veetnud pika aja haiglas.
-Markus Roletsky on peaaegu kõik töö teinud.
+Eva Lototskaja on teinud enda CV lehe ja selle kujunduse. (cv2.html ja style1.css)
+Markus Roletsky on peaaegu kõik ülejäänud: main leht ja enda CV ning nende kujundus ja javascripti elemendid. (main.html, cv1.html, style.css, skript.js)
